@@ -29,11 +29,15 @@ The dataset contains credit card transaction records, including:
 * Transaction ID
 * Transaction Amount
 * Transaction Date
-* Customer Information
-* Merchant Details
+* Customer Name
+* Merchant Name
 * Transaction Type
 * Location Data
-* Fraud Status
+* Fraud Risk
+* Fraud Type
+* State
+* Card Type
+* Bnak
 
 ---
 
@@ -83,10 +87,9 @@ The following steps were completed before analysis:
 
 ### Interactive Filters
 
-* Date
-* Transaction Type
-* Location
-* Risk Category
+* Fraud Type
+* State
+* Merchant Name
 
 ---
 
