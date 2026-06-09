@@ -5,6 +5,7 @@
 This project focuses on analyzing credit card transaction data to identify fraudulent activities and assess transaction risk using Power BI. The dashboard provides interactive visualizations that help uncover fraud patterns, monitor transaction behavior, and support data-driven fraud prevention strategies.
 
 The dataset was imported from a CSV file and transformed using Power Query before being modeled and visualized in Power BI.
+## Dashboard Snapshot
 
 <img width="665" height="370" alt="image" src="https://github.com/user-attachments/assets/109331a3-97ee-4056-8f82-5e01566da513" />
 ---
