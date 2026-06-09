@@ -6,6 +6,7 @@ This project focuses on analyzing credit card transaction data to identify fraud
 
 The dataset was imported from a CSV file and transformed using Power Query before being modeled and visualized in Power BI.
 
+<img width="665" height="370" alt="image" src="https://github.com/user-attachments/assets/109331a3-97ee-4056-8f82-5e01566da513" />
 ---
 
 ## 🎯 Objectives
@@ -116,11 +117,9 @@ Credit-Card-Fraud-Risk-Analysis/
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your dashboard in the Images folder and display them here.
+<img width="666" height="371" alt="image" src="https://github.com/user-attachments/assets/03bf5cbc-7340-41f9-8e6d-0bcded3fe0f0" />
+<img width="665" height="371" alt="image" src="https://github.com/user-attachments/assets/17a96e5b-90e0-40ef-9be9-4273ccbbfc44" />
 
-```markdown
-![Dashboard Preview](Images/dashboard_preview.png)
-```
 
 ---
 
