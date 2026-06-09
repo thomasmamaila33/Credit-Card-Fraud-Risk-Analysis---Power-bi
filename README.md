@@ -91,7 +91,7 @@ The following steps were completed before analysis:
 
 ## 🔍 Key Insights
 
-* 1. Card Not Present Fraud is the Most Common Fraud Type
+## 1. Card Not Present Fraud is the Most Common Fraud Type
 * Card Not Present fraud accounts for the highest transaction volume, with approximately 3 million transactions, making it the leading fraud category. This suggests that online and remote payment channels present the greatest fraud exposure.
 
 * 2. Most Transactions Fall into the Low-Risk Category
