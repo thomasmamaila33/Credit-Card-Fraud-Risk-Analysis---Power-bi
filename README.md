@@ -91,30 +91,27 @@ The following steps were completed before analysis:
 
 ## 🔍 Key Insights
 
-## 1. Card Not Present Fraud is the Most Common Fraud Type
+### 1. Card Not Present Fraud is the Most Common Fraud Type
 * Card Not Present fraud accounts for the highest transaction volume, with approximately 3 million transactions, making it the leading fraud category. This suggests that online and remote payment channels present the greatest fraud exposure.
 
-* 2. Most Transactions Fall into the Low-Risk Category
+### 2. Most Transactions Fall into the Low-Risk Category
 *The fraud risk distribution shows that 42.42% of transactions are classified as Low Risk, while only 10.85% are Critical Risk. Although critical cases are fewer, they require immediate investigation due to their higher potential financial impact.
 
-3. Gauteng Has the Highest Number of Fraudulent Transactions
+### 3. Gauteng Has the Highest Number of Fraudulent Transactions
+* With 149 fraudulent transactions, Gauteng significantly exceeds all other provinces. This indicates that fraud monitoring and prevention efforts should be prioritized in Gauteng.
 
-With 149 fraudulent transactions, Gauteng significantly exceeds all other provinces. This indicates that fraud monitoring and prevention efforts should be prioritized in Gauteng.
+### 4. Fraud Activity Peaks Towards Year-End
+*Fraudulent transactions increase noticeably during the second half of the year, with December recording the highest number of fraud cases (34). This trend may be linked to increased consumer spending and online shopping during the festive season.
 
-4. Fraud Activity Peaks Towards Year-End
+### 5. Fraud Rate Remains Materially Significant
+* The dashboard reports a fraud rate of 28.6%, indicating that more than one-quarter of analyzed transactions were flagged as fraudulent. This highlights the importance of continuous fraud detection and risk management controls.
 
-Fraudulent transactions increase noticeably during the second half of the year, with December recording the highest number of fraud cases (34). This trend may be linked to increased consumer spending and online shopping during the festive season.
-
-5. Fraud Rate Remains Materially Significant
-
-The dashboard reports a fraud rate of 28.6%, indicating that more than one-quarter of analyzed transactions were flagged as fraudulent. This highlights the importance of continuous fraud detection and risk management controls.
-
-Business Recommendations
-Strengthen fraud controls for online and card-not-present transactions.
-Increase monitoring during peak fraud months, especially November and December.
-Allocate additional fraud investigation resources to Gauteng.
-Prioritize review of Critical and High-Risk transactions.
-Implement real-time alerts for suspicious transaction patterns.
+## Business Recommendations
+* Strengthen fraud controls for online and card-not-present transactions.
+* Increase monitoring during peak fraud months, especially November and December.
+* Allocate additional fraud investigation resources to Gauteng.
+* Prioritize review of Critical and High-Risk transactions.
+* Implement real-time alerts for suspicious transaction patterns.
 
 ---
 
