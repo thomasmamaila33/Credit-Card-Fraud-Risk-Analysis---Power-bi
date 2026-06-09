@@ -152,9 +152,9 @@ Credit-Card-Fraud-Risk-Analysis/
 
 ## 👨‍💻 Author
 
-**Onismus**
+**Onismus Mamaila**
 
-Data Analyst | Research & Development
+Data Analyst
 
 ---
 
