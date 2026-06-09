@@ -91,13 +91,11 @@ The following steps were completed before analysis:
 
 ## 🔍 Key Insights
 
-1. Card Not Present Fraud is the Most Common Fraud Type
+* 1. Card Not Present Fraud is the Most Common Fraud Type
+* Card Not Present fraud accounts for the highest transaction volume, with approximately 3 million transactions, making it the leading fraud category. This suggests that online and remote payment channels present the greatest fraud exposure.
 
-Card Not Present fraud accounts for the highest transaction volume, with approximately 3 million transactions, making it the leading fraud category. This suggests that online and remote payment channels present the greatest fraud exposure.
-
-2. Most Transactions Fall into the Low-Risk Category
-
-The fraud risk distribution shows that 42.42% of transactions are classified as Low Risk, while only 10.85% are Critical Risk. Although critical cases are fewer, they require immediate investigation due to their higher potential financial impact.
+* 2. Most Transactions Fall into the Low-Risk Category
+*The fraud risk distribution shows that 42.42% of transactions are classified as Low Risk, while only 10.85% are Critical Risk. Although critical cases are fewer, they require immediate investigation due to their higher potential financial impact.
 
 3. Gauteng Has the Highest Number of Fraudulent Transactions
 
