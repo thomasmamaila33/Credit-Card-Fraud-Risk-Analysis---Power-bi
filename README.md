@@ -130,9 +130,6 @@ Credit-Card-Fraud-Risk-Analysis/
 ├── Dashboard/
 │   └── Credit_Card_Fraud_Analysis.pbix
 │
-├── Images/
-│   └── dashboard_preview.png
-│
 └── README.md
 ```
 
