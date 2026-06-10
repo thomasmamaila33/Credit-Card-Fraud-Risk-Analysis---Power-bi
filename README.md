@@ -37,7 +37,7 @@ The dataset contains credit card transaction records, including:
 * Fraud Type
 * State
 * Card Type
-* Bnak
+* Bank
 
 ---
 
